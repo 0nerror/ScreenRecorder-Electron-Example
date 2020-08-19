@@ -10,4 +10,4 @@ type npm install,
 npm start
 
 
-This code was created from a Youtube Tutorial created by Fireship, video link: https://youtu.be/3yqDxhR2XxE
+This code was created with help from a Youtube Tutorial created by Fireship, video link: https://youtu.be/3yqDxhR2XxE
