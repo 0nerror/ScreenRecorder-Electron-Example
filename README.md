@@ -4,9 +4,9 @@ A sinmple Javascript/Electron/Node program that allows the user to select a vide
 for example Youtube, and capture the streamed footage and record it to a .webm file on their PC
 
 Instructions:
-Clone repository
-switch to cloned directory
-npm install
+Clone repository,
+switch to cloned directory,
+type npm install,
 npm start
 
 
